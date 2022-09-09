@@ -1,0 +1,7 @@
+{'user': 'u1', 'psd': 'p1'}
+{'user': 'u2', 'psd': 'p2'}
+{'user': 'u2', 'psd': 'p2'}
+{'user': 'u3', 'psd': 'p3'}
+{'user': 'u', 'psd': 's'}
+{'user': 'u', 'psd': 'r'}
+{'user': 'u', 'psd': 'p'}
